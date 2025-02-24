@@ -16,10 +16,10 @@ This project implements a linear regression model to analyze the factors influen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Key Features Impacting Demand: Season, year, and weather conditions significantly influence bike-sharing demand.
-Model Performance: The R-squared score of 0.733 indicates the model explains 73.3% of the variance in bike demand.
-Feature Selection Efficiency: Using RFE improved model interpretability by selecting the most relevant features.
-Multicollinearity Check: High VIF values for temp and atemp suggest strong correlation, which may affect model stability.
+>Key Features Impacting Demand: Season, year, and weather conditions significantly influence bike-sharing demand.
+>Model Performance: The R-squared score of 0.733 indicates the model explains 73.3% of the variance in bike demand.
+>Feature Selection Efficiency: Using RFE improved model interpretability by selecting the most relevant features.
+>Multicollinearity Check: High VIF values for temp and atemp suggest strong correlation, which may affect model stability.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
