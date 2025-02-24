@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
+* [Contacts](#contacts)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -29,21 +29,16 @@ cnt = 1283.75 + 49.84*temp + 57.28*atemp + -14.16*hum + -35.19*windspeed + 1312.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- Numpy - version 1.23.5
+- Pandas - version 2.0.1
+- matplotlib - version 3.7.1
+- seaborn - version 0.12.2
+- scikit-learn - version 1.6.1
+- statsmodels - version 0.14.4
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@SarthakaMahapatra] - feel free to contact me!
 
 
 <!-- Optional -->
